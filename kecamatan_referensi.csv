@@ -1,0 +1,18 @@
+kode_data,kabupaten,kecamatan,komoditas,tahun,luas_tm_ha,luas_total_ha,produksi_ton,harga_tbs_rp_kg,tingkat_harga,periode_harga,sumber_data,wilayah_sumber
+LKT-001,Langkat,Bahorok,Kelapa Sawit,2017,2879,,56140.50,,,,BPS Langkat 2017 via skripsi UHN,Langkat
+LKT-002,Langkat,Sirapit,Kelapa Sawit,2017,1307,,24179.50,,,,BPS Langkat 2017 via skripsi UHN,Langkat
+LKT-003,Langkat,Salapian,Kelapa Sawit,2017,3461,,6229.80,,,,BPS Langkat 2017 via skripsi UHN; produksi diduga salah ketik,Langkat
+LKT-004,Langkat,Kutambaru,Kelapa Sawit,2017,860,,15725.00,,,,BPS Langkat 2017 via skripsi UHN,Langkat
+LKT-005,Langkat,Sei Bingai,Kelapa Sawit,2017,2643,,48895.50,,,,BPS Langkat 2017 via skripsi UHN,Langkat
+LKT-006,Langkat,Kuala,Kelapa Sawit,2017,1039,,19741.00,,,,BPS Langkat 2017 via skripsi UHN,Langkat
+LKT-007,Langkat,Selesai,Kelapa Sawit,2017,3610,,66875.00,,,,BPS Langkat 2017 via skripsi UHN,Langkat
+LKT-008,Langkat,Wampu,Kelapa Sawit,2017,3510,,63180.00,,,,BPS Langkat 2017 via skripsi UHN,Langkat
+LKT-009,Langkat,Sawit Seberang,Kelapa Sawit,2017,265,,4637.50,,,,BPS Langkat 2017 via skripsi UHN,Langkat
+LKT-010,Langkat,Padang Tualang,Kelapa Sawit,2017,654,,11772.00,,,,BPS Langkat 2017 via skripsi UHN,Langkat
+LKT-011,Langkat,Gebang,Kelapa Sawit,2017,974,,17045.00,,,,BPS Langkat 2017 via skripsi UHN,Langkat
+LKT-012,Langkat,Besitang,Kelapa Sawit,2017,7046,,126828.00,,,,BPS Langkat 2017 via skripsi UHN,Langkat
+LBS-001,Labuhanbatu Selatan,Kampung Rakyat,Kelapa Sawit,2020,,11217,,,,,BPS Labusel 2020 via jurnal IPDN,Labuhanbatu Selatan
+LBS-002,Labuhanbatu Selatan,Kotapinang,Kelapa Sawit,2020,,9985,,,,,BPS Labusel 2020 via jurnal IPDN,Labuhanbatu Selatan
+LBS-003,Labuhanbatu Selatan,Sungai Kanan,Kelapa Sawit,2020,,9916,,,,,BPS Labusel 2020 via jurnal IPDN,Labuhanbatu Selatan
+LBS-004,Labuhanbatu Selatan,Torgamba,Kelapa Sawit,2020,,8630,,,,,BPS Labusel 2020 via jurnal IPDN,Labuhanbatu Selatan
+LBS-005,Labuhanbatu Selatan,Silangkitang,Kelapa Sawit,2020,,3182,,,,,BPS Labusel 2020 via jurnal IPDN,Labuhanbatu Selatan
